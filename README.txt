@@ -32,11 +32,11 @@ return to the main menu:
 The user is prompted to enter the student's name and email address as a string separated
 by a blank space (e.g. John Smith john.smith@gmail.com). 
 
-The student must have a first name and a last name consisting of latin
-letters. The first word of student name is the first name, and the last name can be several
-words long (e.g. Manuel de Silva Pereira, where "Manuel" is the first name and "de Silva
-Pereira" is the last name). A hyphen and apostrophe, e.g. Mary-Ann O'Brian, are also 
-allowed in a name, but not as the first or the last character in each name-part.
+The student must have a first name and a last name consisting of latin letters. The first 
+word of student name is the first name, and the last name can be several words long (e.g. 
+Manuel de Silva Pereira, where "Manuel" is the first name and "de Silva Pereira" is the last
+name). A hyphen and apostrophe, e.g. Mary-Ann O'Brian, are also allowed in a name, but not as 
+the first or the last character in each name-part.
 
 An email address must be in the form of a@b.c, where a is the local-part, b is the second-
 level domain, and c is the top-level domain. The local-part can be any alphanumeric
